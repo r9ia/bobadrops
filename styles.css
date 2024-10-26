@@ -1,0 +1,19 @@
+.myfirstclass {
+    font-size:larger;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+}
+
+.divTwo {
+    font-family: 'MS Comic Sans';
+}
+
+.divThree {
+    font-family: 'Arial';
+}
+
+.divOne {
+    font-family: "Georgia"
+}
+
